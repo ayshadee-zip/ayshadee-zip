@@ -4,7 +4,15 @@
 
 ---
 
-Cybersecurity professional specializing in GRC, AI security governance, and compliance program management. I build frameworks that bridge policy and practice — currently leading AI security initiatives at the government level and growing a boutique GRC consulting firm on the side.
+> *"You are the one I go to when I need to get a burning ship into the harbor safely. Your colleague is the one I go to when I need the ship to go on a long and arduous journey. You both have different strengths, but you are both excellent captains."*
+>
+> — A former boss
+
+---
+
+When a system is on fire, I'm the one who gets it to shore. When it needs a framework built to last — I build that too. I'm a systems thinker, an analyst, an advisor. I've been trusted to stand up PMOs, train teams from the ground up, and step into high-stakes projects — including work with Arizona Homeland Security — because people know I'll get it done.
+
+Cybersecurity professional specializing in GRC, AI security governance, and compliance program management. I bridge policy and practice, currently leading AI security initiatives at the government level and growing a boutique GRC consulting firm on the side.
 
 ---
 
@@ -12,7 +20,7 @@ Cybersecurity professional specializing in GRC, AI security governance, and comp
 
 - **AI Security Governance** — Facilitating a federal AI Security Task Force; piloting AI self-reporting addendums and compliance frameworks
 - **GRC & Compliance** — FedRAMP, GovRAMP, NIST RMF, CMMC, ISO 27001
-- **Program Management** — SOPs, training programs, snapshot review processes, cross-agency coordination
+- **Program Management** — Standing up PMOs, training teams, SOPs, snapshot review processes, cross-agency coordination
 - **Data & Tooling** — Power BI dashboards (Control Wizard, AI Control Overlay), process automation
 
 ---
