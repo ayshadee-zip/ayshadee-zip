@@ -4,9 +4,8 @@
 
 ---
 
-> *"You are the one I go to when I need to get a burning ship into the harbor safely. Your colleague is the one I go to when I need the ship to go on a long and arduous journey. You both have different strengths, but you are both excellent captains."*
->
-> — A former boss
+> *"You are the one I go to when I need to get a burning ship into the harbor safely."*
+> — A former boss, on what I bring to the table
 
 ---
 
