@@ -8,7 +8,7 @@ Program Analyst · AI Security · Risk Management · DMV Area
 ![CSM](https://img.shields.io/badge/CSM-0F6E56?style=flat-square&logoColor=white)
 ![CSPO](https://img.shields.io/badge/CSPO-0F6E56?style=flat-square&logoColor=white)
 
-Cybersecurity professional specializing in GRC, AI security governance, and compliance program management. I build frameworks that bridge policy and practice — currently leading AI security initiatives at the government level and growing a boutique GRC consulting firm on the side.
+Cybersecurity professional specializing in GRC, AI security governance, and compliance program management. I build frameworks that bridge policy and practice — currently leading AI security initiatives at the government level and growing a GRC education and consulting firm on the side.
 
 ---
 
