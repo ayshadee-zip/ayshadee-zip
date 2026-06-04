@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Parent Resource Corner ✨ | Fun finds for our school families</title>
+  <meta
+    name="description"
+    content="A friendly hub of hand-picked resources for parents — kids' podcasts, educational worksheets, lovely products and screen-free summer fun."
+  />
+
+  <!-- Playful, rounded Google Fonts in the BlogPixie spirit -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Nunito:wght@400;600;700;800&display=swap"
+    rel="stylesheet"
+  />
+
+  <link rel="stylesheet" href="styles.css" />
+  <link
+    rel="icon"
+    href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌈</text></svg>"
+  />
+</head>
+<body>
+  <!-- Decorative floating shapes for that printable-sticker feel -->
+  <div class="bg-shapes" aria-hidden="true">
+    <span class="shape shape--star">★</span>
+    <span class="shape shape--heart">♥</span>
+    <span class="shape shape--dot"></span>
+    <span class="shape shape--dot shape--dot-2"></span>
+    <span class="shape shape--blob"></span>
+  </div>
+
+  <header class="hero">
+    <div class="hero__inner">
+      <p class="hero__eyebrow">For our school families 💛</p>
+      <h1 class="hero__title">Parent Resource Corner</h1>
+      <p class="hero__subtitle">
+        A cosy little hub of hand-picked goodies I find online — podcasts, printables,
+        playthings and screen-free fun to share with fellow parents.
+      </p>
+
+      <!-- Quick-jump category pills -->
+      <nav class="hero__nav" aria-label="Jump to a category">
+        <a class="pill pill--podcasts" href="#podcasts">🎧 Podcasts</a>
+        <a class="pill pill--worksheets" href="#worksheets">✏️ Worksheets</a>
+        <a class="pill pill--products" href="#products">🧸 Products</a>
+        <a class="pill pill--summer" href="#summer">☀️ Screen-Free Fun</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="resource-sections" class="sections">
+    <!-- Sections are generated from resources.js so they're easy to update -->
+    <p class="loading">Loading lovely resources… 🌷</p>
+  </main>
+
+  <footer class="footer">
+    <p class="footer__note">
+      Made with 💛 for our school community. Found something wonderful?
+      <a href="mailto:messageaysha@gmail.com">Send it my way</a> and I'll add it.
+    </p>
+    <p class="footer__fineprint">
+      These are free finds shared between parents — links lead to other people's
+      sites and shops, which set their own prices and terms.
+    </p>
+  </footer>
+
+  <script src="resources.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
